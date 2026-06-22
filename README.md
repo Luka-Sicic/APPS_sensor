@@ -2,7 +2,7 @@
 
 Accelerator Pedal Position Sensor (APPS) firmware for STM32, implementing a dual-channel plausibility check as required in Formula Student vehicle safety systems.
 
-Simulated on [Wokwi](https://wokwi.com/projects/377013680233224193) · Part of [FESB Racing Team](https://github.com/fesbracingteam)
+Simulated on [Wokwi](https://wokwi.com/projects/377013680233224193)
 
 ## Overview
 
